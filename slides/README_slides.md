@@ -180,6 +180,10 @@ Developers and those interested in OpenShift, and IBM Watson Discovery.
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
+![center](https://github.com/mridulrb/watson-assistant-slots-intro/blob/master/images/slide_images/Slide27.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
